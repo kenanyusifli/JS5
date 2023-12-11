@@ -9,5 +9,5 @@
 // var smallword = sentence.toLowerCase();
 // console.log("", smallword);
 
- var age = prompt ("Dogum Ilini Yaz")
- console.log(2023 - age);
+ // var age = prompt ("Dogum Ilini Yaz")
+ // console.log(2023 - age);
